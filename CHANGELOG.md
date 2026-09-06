@@ -1,5 +1,25 @@
 # CHANGELOG
 
+## v0.2.4 - 2026-09-06
+
+### What's Changed
+
+- chore(renovate): automerge minor/patch, group github-actions, min release age @brpaz (#27)
+
+#### 🧩 Dependency Updates
+
+<details>
+<summary>7 changes</summary>
+- chore(deps): update dependency pytest to v9 @[renovate[bot]](https://github.com/apps/renovate) (#19)
+- chore(deps): update dependency ansible-lint to v26 @[renovate[bot]](https://github.com/apps/renovate) (#21)
+- chore(deps): update dependency molecule to v26 @[renovate[bot]](https://github.com/apps/renovate) (#22)
+- chore(deps): update github-actions to v7 @[renovate[bot]](https://github.com/apps/renovate) (#28)
+- chore(deps): update dependency ansible-lint to ~=25.12.2 @[renovate[bot]](https://github.com/apps/renovate) (#13)
+- chore(deps): update dependency molecule to ~=25.12.0 @[renovate[bot]](https://github.com/apps/renovate) (#14)
+- chore(deps): update dependency docker to ~=7.2.0 @[renovate[bot]](https://github.com/apps/renovate) (#25)
+
+</details>
+**Full Changelog**: <https://github.com/brpaz/ansible-role-swarm_grafana_alloy/compare/v0.2.3...v0.2.4>
 ## v0.2.3 - 2025-06-09
 
 ### What's Changed
